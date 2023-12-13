@@ -26,8 +26,8 @@ Tugas kepala intel: mengarahkan rekan setim untuk menebak kode nama dengan warna
 Tugas rekan setim: menebak kode nama yang warnanya sesuai dengan timnya
 
 Setiap giliran team akan terdiri menjadi 2 fase:
-Fase memberi clue: Kepala Intel Akan Memberikan Clue
-Fase menebak: tim akan menebak kode nama yang dimaksud kepala intel
+- Fase memberi clue: Kepala Intel Akan Memberikan Clue
+- Fase menebak: tim akan menebak kode nama yang dimaksud kepala intel
 
 **Ketentuan untuk kepala intel memberi clue:**
 - Maksimal 2 kata dan tidak boleh translate-an dari kode nama yang dimaksud.
