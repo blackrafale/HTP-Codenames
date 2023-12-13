@@ -2,7 +2,7 @@
 
 Pemain akan dibagi menjadi 2 team, yaitu Tim Merah dan Tim Biru. Setiap tim akan menunjuk 2 orang yang berperan sebagai kepala intel untuk memberikan clue kodenama kepada rekan satu timnya.
 
-Pemain yang tidak terpilih menjadi kepala intel akan menebak kodenama agen rahasia dari timnya.
+Pemain yang tidak ditunjuk menjadi kepala intel akan menebak kodenama agen rahasia dari timnya.
 
 Moderator akan memberikan 25 kode nama. Di balik kode nama tersebut bisa saja milik agen rahasia tim merah, tim biru, warga sipil, dan hitman.
 
@@ -39,7 +39,8 @@ Makanan laut - 2
 Angka saat pemberian clue mengindikasikan jumlah kodenama yang akan ditebak.
 
 **Ketentuan menebak:**
-- Perwakilan menebak langsung kodenama maksimal sesuai dengan instruksi kepala intel, jadi kalau kepala intel cuma instruksi 2 seperti contoh di atas, maka hanya boleh maksimal tebak 2 kodenama.
+- Perwakilan menebak langsung kodenama sesuai dengan instruksi kepala intel, jadi kalau kepala intel cuma instruksi 2 seperti contoh di atas, maka hanya boleh maksimal tebak 2 kodenama.
+- Jika tim berhasil mengungkap agen rahasia timnya sejumlah yang diinstruksikan kepala intel, diberikan kesempatan untuk menebak 1 kali lagi (kesempatan ini boleh ditolak).
 - perwakilan menebak melalui QRT sesuai instruksi mod
 - Mohon perhatikan urutan kodenama yang ditebak, jika kodenama dalam urutan pertama merupakan warga sipil / agen rahasia tim lawan maka kode nama diurutan selanjutnya tidak akan direveal
 
