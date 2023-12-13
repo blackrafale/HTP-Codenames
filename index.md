@@ -22,6 +22,7 @@ Moderator akan memberikan 25 kode nama yang dibaliknya bisa saja agen rahasia ti
 Setiap Tim akan bergiliran untuk menebak kode nama.
 
 Tugas kepala intel: mengarahkan rekan setim untuk menebak kode nama dengan warna yang sesuai dengan timnya
+
 Tugas rekan setim: menebak kode nama yang warnanya sesuai dengan timnya
 
 Setiap giliran team akan terdiri menjadi 2 fase:
