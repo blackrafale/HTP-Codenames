@@ -13,10 +13,10 @@ Moderator akan memberikan 25 kode nama yang dibaliknya bisa saja agen rahasia ti
 ![kepala intel](https://i.ibb.co/Kq0DcVr/kepala-intel.jpg)
 
 **Keterangan:**
-Kodenama biru : agen rahasia tim biru
-Kodenama merah : agen rahasia tim merah
-Kodenama cokelat:  warga sipil
-Kodenama hitam : hitman, menebak hitman akan mengakibatkan tim otomatis kalah
+- Kodenama biru : agen rahasia tim biru
+- Kodenama merah : agen rahasia tim merah
+- Kodenama cokelat:  warga sipil
+- Kodenama hitam : hitman, menebak hitman akan mengakibatkan tim otomatis kalah
 
 ## Alur Permainan
 Setiap Tim akan bergiliran untuk menebak kode nama.
