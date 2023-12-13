@@ -4,7 +4,7 @@ Pemain akan dibagi menjadi 2 team, yaitu Tim Merah dan Tim Biru. Setiap tim akan
 
 Pemain yang tidak terpilih menjadi kepala intel akan menebak kodenama agen rahasia dari timnya.
 
-Moderator akan memberikan 25 kode nama yang dibaliknya bisa saja agen rahasia tim merah, tim biru, warga sipil, dan hitman.
+Moderator akan memberikan 25 kode nama. Di balik kode nama tersebut bisa saja milik agen rahasia tim merah, tim biru, warga sipil, dan hitman.
 
 ### Contoh kode nama yang harus ditebak oleh masing-masing tim:
 ![pemain](https://i.ibb.co/2c14HrG/pemain.png)
